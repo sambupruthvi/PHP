@@ -1,0 +1,25 @@
+connected
+Flight info:
+ 1	Chicago-Denver    919	
+	 	 	 1	John,Doe	
+	 	 	 2	Michonne,Grimes	
+	 	 	 5	Dean,Winchester	
+	 	 	 6	Daryl,Dixon	
+Number of passengers in the flight are: 4
+
+ 2	Chicago-Laredo   1361	
+	 	 	 3	Mary,Brown	
+	 	 	 4	Sophia,Peletier	
+Number of passengers in the flight are: 2
+
+ 3	Saint Louis-Chicago    298	
+			No Passenger Found!!!
+Number of passengers in the flight are: 0
+
+ 4	Miami-Denver   2060	
+			No Passenger Found!!!
+Number of passengers in the flight are: 0
+
+ 5	Denver-Miami   2060	
+			No Passenger Found!!!
+Number of passengers in the flight are: 0
